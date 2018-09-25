@@ -3,12 +3,12 @@ A crowdsale ice with mintable tokens using open zeppelin and truffle
 
 How to deploy -
 
-  Compile the contract usign "truffle compile"
+    - Compile the contract usign "truffle compile"
   
-  Use solidity flattener to flatten the solidity files.
+    - Use solidity flattener to flatten the solidity files.
   
-  copy and paste your solidty files into remix. If it gives error may be due to the ERC20 inclusion in the file due to flatten. Include it on the top.
+    - Copy and paste your solidty files into remix. If it gives error may be due to the ERC20 inclusion in the file due to flatten. Include it on the top.
   
-  Make sure your have metamark installed and you selected any test network.
+    - Make sure your have metamark installed and you selected any test network.
   
-  now deploy the exmaple contract first and then deploy the crowdsale contract with the address of example contract.
+    - Now deploy the exmaple contract first and then deploy the crowdsale contract with the address of example contract.
